@@ -1,4 +1,4 @@
-# New Music command
+# New Music
 
 ## Create variable 
 
